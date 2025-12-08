@@ -8,17 +8,7 @@ body {
 .hero {
     text-align: center;
     padding: 80px 20px;
-    background-image: url("Kolobok jpg");
-
-            background-size: no-repeat;
-
-            background-position: center;
-
-            background-size: cover;
-
-            height: 400px;
-
-            width: 1000px;
+    background: linear-gradient(135deg, #111 0%, #1a1a1a 100%);
 }
 
 .title {

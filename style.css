@@ -2,7 +2,7 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
     background: #0c0c0c;
-    color: #FF4500;
+    color: #d1dedd
 }
 
 .hero {
@@ -23,7 +23,7 @@ body {
 
 .nav a {
     margin: 0 15px;
-    color: #00e0ff;
+    color: #fffb00
     text-decoration: none;
     font-weight: bold;
 }

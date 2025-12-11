@@ -6,6 +6,7 @@ body {
 }
 
 .hero {
+    text-align: center;
     background: url('Kolobok.jpg') center / cover no-repeat;
     background-color: #111;
 }

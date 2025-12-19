@@ -8,7 +8,7 @@ body {
 .hero {
     text-align: center;
     background: url('фон.jpeg') center / cover no-repeat;
-    background-color: #111;
+    background-color: #FF4500;
 }
 
 .title {
